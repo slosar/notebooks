@@ -7,3 +7,5 @@ Playground repo for one-off jupyter notebooks
 
 * dynamic range, phase errors, FFT imaging [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slosar/notebooks/master?filepath=dynamic_rnage_fft.ipynb)
 
+* sampling vs averaging [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slosar/notebooks/master?filepath=sampling_vs_averaging.ipynb)
+
