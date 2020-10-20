@@ -9,3 +9,6 @@ Playground repo for one-off jupyter notebooks
 
 * sampling vs averaging [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slosar/notebooks/master?filepath=sampling_vs_averaging.ipynb)
 
+* Ratio of Gaussian variates (for biasing) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slosar/notebooks/master?filepath=GaussRations.ipynb)
+
+
