@@ -12,3 +12,6 @@ Playground repo for one-off jupyter notebooks
 * Ratio of Gaussian variates (for biasing) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slosar/notebooks/master?filepath=GaussRations.ipynb)
 
 
+# DeepNote:
+ * [Deepnote Link](https://deepnote.com)
+ 
