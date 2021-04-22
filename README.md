@@ -11,9 +11,9 @@ Playground repo for one-off jupyter notebooks
 
 * Ratio of Gaussian variates (for biasing) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slosar/notebooks/master?filepath=GaussRations.ipynb)
 
-* FRB line search algorithm [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slosar/notebooks/master?filepath=FRB_algo.ipynb)
+* FRB line search algorithm 
+[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/FRB_algo.ipynb)
 
-
-# DeepNote:
- * [Deepnote Link](https://deepnote.com)
+* Creating galaxies with `descwl-shear_sims`
+[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/GalaxyGen.ipynb)
  
