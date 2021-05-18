@@ -18,8 +18,8 @@ Playground repo for one-off jupyter notebooks
 :[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/FRB_algo.ipynb)
 
 * Creating galaxies with `descwl-shear_sims`
-:[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/GalaxyGen.ipynb)
+:[view](https://n bviewer.jupyter.org/github/slosar/notebooks/blob/master/GalaxyGen.ipynb)
 
 * Regularization test for prakruth 
-::[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/regularization_test.ipynb)
+:[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/regularization_test.ipynb)
 
