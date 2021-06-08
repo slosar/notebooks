@@ -23,3 +23,6 @@ Playground repo for one-off jupyter notebooks
 * Regularization test for prakruth 
 :[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/regularization_test.ipynb)
 
+* Book shelves 
+:[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/police.ipynb)
+
