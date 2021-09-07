@@ -26,3 +26,6 @@ Playground repo for one-off jupyter notebooks
 * Book shelves 
 :[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/police.ipynb)
 
+* Downconversion test
+:[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/downconversion_test.ipynb)
+
