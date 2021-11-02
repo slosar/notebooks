@@ -29,3 +29,6 @@ Playground repo for one-off jupyter notebooks
 * Downconversion test
 :[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/downconversion_test.ipynb)
 
+* Zhi test (correlated frequency and phase on finite samples)
+:[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/zhi_test.ipynb)
+
