@@ -32,3 +32,9 @@ Playground repo for one-off jupyter notebooks
 * Zhi test (correlated frequency and phase on finite samples)
 :[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/zhi_test.ipynb)
 
+* Poisson Exclusion 
+:[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/exclusion.ipynb)
+
+* Calib Demo
+:[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/calib_demo.ipynb)
+
