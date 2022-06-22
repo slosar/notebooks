@@ -42,5 +42,5 @@ Playground repo for one-off jupyter notebooks
 [view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/hong_big.ipynb)
 
 * Log-space projection: 
-[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/log_proj.ipynb)
+[view](https://nbviewer.jupyter.org/github/slosar/notebooks/blob/master/logproj.ipynb)
 
